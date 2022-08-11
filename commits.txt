@@ -1,0 +1,118 @@
+commit 58ee425817e51d013c0c57da985c7c8a9fe9bcf0
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 16:41:48 2022 -0400
+
+    agregando dos parrafos
+
+commit 955e1c136fef89721c74cd6ac5332d3fc798e30c
+Merge: 9e09efc ca8d736
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 16:40:06 2022 -0400
+
+    revosielviendo conflicto y agregando estaciones del año fecha inicio
+
+commit 9e09efc8c1a1633a46703a69361b7dde5531772e
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 16:06:07 2022 -0400
+
+    agregando estaciones del año con fecha
+
+commit ca8d73632892013f125aec1957d212f372086f41
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 16:06:07 2022 -0400
+
+    agrengado estanciones
+
+commit 970ea2a9d4022daec51d4888345ac9f8c7cb818b
+Merge: a95341d 905653b
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:59:08 2022 -0400
+
+    resolviendo conflicto
+
+commit 905653b461fe957d411b3fd7bce0962b56bb81e3
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:53:11 2022 -0400
+
+    agrengado index.js al blblbal
+
+commit a95341d60eafbc985ef6d750a2bae3b3e12ae231
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:51:11 2022 -0400
+
+    html bla bla bla
+
+commit 379e135c53026b04940cb8f9214ed1b9cd85c886
+Merge: 7efb215 c1e2192
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:44:49 2022 -0400
+
+    Merge branch 'js'
+
+commit 7efb2151737c15d6b8683704fc9647b77f104366
+Merge: 173d901 4a4965b
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:44:29 2022 -0400
+
+    Merge branch 'css'
+
+commit 173d90179ab36512baf294a82064255d96a6e511
+Merge: f428cf4 b7dcb5a
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:43:51 2022 -0400
+
+    Merge branch 'html'
+
+commit f428cf48bd32c21a5a641895c402746f989ef1da
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Thu Aug 11 15:43:44 2022 -0400
+
+    nuevos archivos?
+
+commit c1e2192b38eee3fb9723e578c2562d20707220e6
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 20:07:37 2022 -0400
+
+    creando index.js
+
+commit 4a4965b5be04c3301cd52b003fa53d6d2b7fa2d3
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 19:58:54 2022 -0400
+
+    creando styles.css
+
+commit b7dcb5ae31483263a09848001eb1487fb223e3cc
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 19:54:54 2022 -0400
+
+    creando archivo index
+
+commit 508d28d5a8ff344b18a83276077d52d4b79a683c
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 19:12:16 2022 -0400
+
+    ignorando archivos .exe
+
+commit aca127d49995e714b44d5d2cbed07ec48026e1c5
+Author: AngeloMera <88162282+AngeloMera@users.noreply.github.com>
+Date:   Tue Aug 9 18:42:37 2022 -0400
+
+    creando licencia
+
+commit e61d4444967f51faf3a2ea2ca8cd83367f5cfa13
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 18:29:45 2022 -0400
+
+    agrengado mas contenido al readme
+
+commit 21b81c3f045885c550c01493aad3a423795d6231
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 18:10:54 2022 -0400
+
+    Agregando contenido inicial al readme
+
+commit 07cdd4f0c79e784cd0de50c704b6cdaaf537810c
+Author: Angelo Mera <xdangelo965@gmail.com>
+Date:   Tue Aug 9 18:01:30 2022 -0400
+
+    primer commit

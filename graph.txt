@@ -1,0 +1,29 @@
+* 58ee425 agregando dos parrafos
+*   955e1c1 revosielviendo conflicto y agregando estaciones del año fecha inicio
+|\  
+| * ca8d736 agrengado estanciones
+* | 9e09efc agregando estaciones del año con fecha
+|/  
+*   970ea2a resolviendo conflicto
+|\  
+| * 905653b agrengado index.js al blblbal
+* | a95341d html bla bla bla
+* |   379e135 Merge branch 'js'
+|\ \  
+| * | c1e2192 creando index.js
+* | |   7efb215 Merge branch 'css'
+|\ \ \  
+| * | | 4a4965b creando styles.css
+| | |/  
+| |/|   
+* | | 173d901 Merge branch 'html'
+|\| | 
+| * | b7dcb5a creando archivo index
+| |/  
+* / f428cf4 nuevos archivos?
+|/  
+* 508d28d ignorando archivos .exe
+* aca127d creando licencia
+* e61d444 agrengado mas contenido al readme
+* 21b81c3 Agregando contenido inicial al readme
+* 07cdd4f primer commit
